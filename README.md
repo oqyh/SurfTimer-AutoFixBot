@@ -2,7 +2,7 @@
 
 ### Reload Bots Beginning Of Map
 
-![alt text](https://github.com/oqyh/Simple-Tips-Chat/blob/main/img/Screenshot%20(12424).png?raw=true)
+![alt text](https://github.com/oqyh/SurfTimer-AutoFixBot/blob/main/img/bots.png?raw=true)
 
 
 ## .:[ ConVars ]:.
