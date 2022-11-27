@@ -14,14 +14,14 @@
 // Maximum: "1.000000"
 sm_bot_fix_enable "1"
 
-// Enable Print Chat Box Fixed  || 1= Yes || 0= No
+// Enable Print Notification Chat Bot Fixed  || 1= Yes || 0= No
 // -
 // Default: "1"
 // Minimum: "0.000000"
 // Maximum: "1.000000"
 sm_bot_fix_notify "1"
 
-// Timer To Fix Bots Beginning Of The Map
+// (in sec) Timer To Fix Bots Beginning Of The Map
 // -
 // Default: "50.0"
 sm_bot_fix_timer "50.0"
